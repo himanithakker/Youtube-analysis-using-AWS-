@@ -40,11 +40,4 @@ The dataset used in this project is sourced from Kaggle and contains statistics 
 - `/examples`: Example code or notebooks for analysis.
 - `/config`: Configuration files for AWS services.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributors
-- [Your Name](Your GitHub Profile Link)
-
-Feel free to contribute, report issues, or provide feedback!
 
